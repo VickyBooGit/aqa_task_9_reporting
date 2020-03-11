@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5xehu6sux6oonqqp/branch/master?svg=true)](https://ci.appveyor.com/project/VickyBooGit/aqa-task-9-reporting/branch/master)
+
 # Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
